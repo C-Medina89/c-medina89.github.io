@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Musab Masud
+#  Hi, I’m Musab Masud
 
-## 🚀 Graduate Data Engineer | Machine Learning & AI
+##  Graduate Data Engineer | Machine Learning & AI
 
 I’m a **Data Engineering bootcamp graduate from Nortcoders**, with hands-on experience
 building data pipelines, working with real-world datasets, and developing
@@ -11,7 +11,7 @@ My GitHub showcases projects completed during the bootcamp, focusing on
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I completed the **Nortcoders Data Engineering Bootcamp**, an intensive,
 industry-led programme designed to prepare graduates for real-world data roles.
